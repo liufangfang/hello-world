@@ -1,6 +1,6 @@
 #__coding=utf-8__
 import tensorflow as tf
-
+#hello world
 import numpy as np
 #你好使用numpy生成假数据
 x_data = np.float32(np.random.rand(2, 100)) 
