@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #__coding=utf-8__
 import tensorflow as tf
 # 创建一个变量, 初始化为标量 0.
